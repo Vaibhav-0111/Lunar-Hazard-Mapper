@@ -2,15 +2,12 @@
 
 ## Built With
 
--   **Next.js:** A React framework for building fast web applications. ![Next.js logo](https://nextjs.org/static/images/logos/nextjs-logo-dark-background.png)
--   **Firebase:** A platform for building web and mobile applications. ![Firebase logo](https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png)
--   **React:** A JavaScript library for building user interfaces. ![React logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png)
--   **JavaScript:** The programming language for the web. ![JavaScript logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png)
-
-### Frontend
-![Frontend Image](https://via.placeholder.com/400x200?text=Frontend+Technologies) <!-- Placeholder for a frontend concept image -->
-### Backend
-![Backend Image](https://via.placeholder.com/400x200?text=Backend+Technologies) <!-- Placeholder for a backend concept image -->
+-   **Next.js:** ![Next.js logo](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+-   **React:** ![React logo](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+-   **Node.js:** ![Node.js logo](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+-   **Tailwind CSS:** ![Tailwind CSS logo](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+-   **Firebase:** ![Firebase logo](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+-   **JavaScript:** ![JavaScript logo](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ## Discover the Depths with AI
 
