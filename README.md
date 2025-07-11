@@ -32,7 +32,9 @@ Below is a quick look at the folder structure of the project to help understand 
 
 Lunar-Hazard-Mapper/
 ├── .idx/                   # Internal indexing (can be ignored in VCS)
+
 ├── .vscode/                # VSCode workspace settings
+
 ├── docs/                   # Documentation and diagrams
 ├── src/                    # Main source code
 │   ├── app/                # App directory for Next.js routing
