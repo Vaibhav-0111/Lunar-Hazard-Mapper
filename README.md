@@ -21,20 +21,19 @@ This project is your gateway to:
 
 To get started, take a look at `/src/app/page.tsx`.
 
+
+
 ---
-
-
-## 🗂️ Folder Structure
+## 📂 Folder Structure
 
 Below is a quick look at the folder structure of the project to help understand the codebase layout:
 
-📂 Project Structure – Lunar Hazard Mapper
+### 📁 Project Structure – Lunar Hazard Mapper
 
+```bash
 Lunar-Hazard-Mapper/
 ├── .idx/                   # Internal indexing (can be ignored in VCS)
-
 ├── .vscode/                # VSCode workspace settings
-
 ├── docs/                   # Documentation and diagrams
 ├── src/                    # Main source code
 │   ├── app/                # App directory for Next.js routing
@@ -51,7 +50,9 @@ Lunar-Hazard-Mapper/
 ├── package-lock.json       # Package lock file
 ├── postcss.config.mjs      # PostCSS configuration
 ├── tailwind.config.ts      # TailwindCSS configuration
-├── tsconfig.json           # TypeScript configuration
+└── tsconfig.json           # TypeScript configuration
+
+
 
 
 Made with ❤️ by Vaibhav
