@@ -23,4 +23,33 @@ To get started, take a look at `/src/app/page.tsx`.
 
 ---
 
+
+## 🗂️ Folder Structure
+
+Below is a quick look at the folder structure of the project to help understand the codebase layout:
+
+📂 Project Structure – Lunar Hazard Mapper
+
+Lunar-Hazard-Mapper/
+├── .idx/                   # Internal indexing (can be ignored in VCS)
+├── .vscode/                # VSCode workspace settings
+├── docs/                   # Documentation and diagrams
+├── src/                    # Main source code
+│   ├── app/                # App directory for Next.js routing
+│   ├── components/         # Reusable UI components
+│   ├── styles/             # Tailwind/global styles
+│   └── utils/              # Utility functions and helpers
+├── .gitignore              # Git ignored files
+├── .modified               # Possibly custom version tracking (if used)
+├── README.md               # Project overview and documentation
+├── apphosting.yaml         # Deployment configuration (Firebase/App Hosting)
+├── components.json         # Component definitions (maybe Storybook/Builder)
+├── next.config.ts          # Next.js configuration file
+├── package.json            # Project metadata and dependencies
+├── package-lock.json       # Package lock file
+├── postcss.config.mjs      # PostCSS configuration
+├── tailwind.config.ts      # TailwindCSS configuration
+├── tsconfig.json           # TypeScript configuration
+
+
 Made with ❤️ by Vaibhav
